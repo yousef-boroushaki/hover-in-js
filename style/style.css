@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(235, 235, 235);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+.box {
+    height: 400px;
+    background-color: white;
+    width: 300px;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.4);
+    height: 350px;
+    
+}
+
+#image {
+    width: 100%;
+}
+
+.box p {
+    padding: 0 30px;
+    margin-top: 12px;
+    text-align: center;
+
+}
